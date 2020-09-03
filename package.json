@@ -1,7 +1,7 @@
 {
   "name": "@gcoreplus/shortid",
-  "version": "1.0.0",
-  "description": "Provides default handler for nestjs on lambda",
+  "version": "1.0.1",
+  "description": "➔ @gcoreplus/shortid creates ✓random or ✓sequential with seed short url-friendly unique ids",
   "author": "Rennan Stefan Boni",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
